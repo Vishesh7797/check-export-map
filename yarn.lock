@@ -782,10 +782,10 @@ json-parse-even-better-errors@^2.3.0:
   resolved "https://registry.yarnpkg.com/json-parse-even-better-errors/-/json-parse-even-better-errors-2.3.1.tgz#7c47805a94319928e05777405dc12e1f7a4ee02d"
   integrity sha512-xyFwyhro/JEof6Ghe2iz2NcXoj2sloNsWr/XsERDK/oiPCfaNhl5ONfp+jQdAZRQQ0IJWNzH9zIZF7li91kh2w==
 
-kolorist@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/kolorist/-/kolorist-1.2.3.tgz#c7980231b1a35694f556dd56bdff571d35c559d7"
-  integrity sha512-tKAyr5m4kClO8IfBXUKC8t9jUYmIlGGm5eYCbJlf86JWYUqpYMPszTyxpkSnJmIz3zd3rFL1uhmqkaUdWr6tIg==
+kolorist@^1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/kolorist/-/kolorist-1.8.0.tgz#edddbbbc7894bc13302cdf740af6374d4a04743c"
+  integrity sha512-Y+60/zizpJ3HRH8DCss+q95yr6145JXZo46OTpFvDZWLfRCE4qChOyk1b26nMaNpfHHgxagk9dXT5OP0Tfe+dQ==
 
 lines-and-columns@^1.1.6:
   version "1.1.6"

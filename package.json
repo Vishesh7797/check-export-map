@@ -22,7 +22,7 @@
 		"prettier": "^2.1.2"
 	},
 	"dependencies": {
-		"kolorist": "^1.2.3",
+		"kolorist": "^1.8.0",
 		"mri": "^1.1.6"
 	},
 	"prettier": {
