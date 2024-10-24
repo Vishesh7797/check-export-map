@@ -23,7 +23,7 @@
 	},
 	"dependencies": {
 		"kolorist": "^1.2.3",
-		"mri": "^1.1.6"
+		"mri": "^1.2.0"
 	},
 	"prettier": {
 		"useTabs": true,
